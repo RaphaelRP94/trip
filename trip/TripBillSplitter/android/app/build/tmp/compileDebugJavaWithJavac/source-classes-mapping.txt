@@ -1,0 +1,14 @@
+com/tripbillsplitter/MainActivity.java
+ com.tripbillsplitter.MainActivity
+com/tripbillsplitter/ReactNativeFlipper.java
+ com.tripbillsplitter.ReactNativeFlipper
+ com.tripbillsplitter.ReactNativeFlipper$1
+ com.tripbillsplitter.ReactNativeFlipper$2
+ com.tripbillsplitter.ReactNativeFlipper$2$1
+com/tripbillsplitter/MainApplication.java
+ com.tripbillsplitter.MainApplication
+ com.tripbillsplitter.MainApplication$1
+com/tripbillsplitter/BuildConfig.java
+ com.tripbillsplitter.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
